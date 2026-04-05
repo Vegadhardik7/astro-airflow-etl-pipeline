@@ -1,0 +1,7 @@
+apache-airflow-providers-http
+apache-airflow
+sqlalchemy
+psycopg2-binary
+cryptography
+requests
+pendulum
