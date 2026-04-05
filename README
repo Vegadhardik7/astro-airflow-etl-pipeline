@@ -59,3 +59,7 @@ If the target table doesn’t exist in the Postgres database, it is created auto
 ---
 
 2. Create file dags/etl.py
+
+3. Write code in it
+
+4. Run postgre sql in docker - using docker-compose.yaml file
